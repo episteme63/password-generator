@@ -15,10 +15,9 @@ This project provides a tool to generate strong and secure passwords. It allows 
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Open `index.html` in a web browser.
-3. Choose the desired password length and character types.
-4. Click the "Generate Password" button.
-5. Copy the generated password by clicking the "Copy to Clipboard" button.
+2. Choose the desired password length and character types.
+3. Click the "Generate Password" button.
+4. Copy the generated password by clicking the "Copy to Clipboard" button.
 
 ## Contributing
 
